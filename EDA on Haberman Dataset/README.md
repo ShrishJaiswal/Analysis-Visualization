@@ -1,4 +1,4 @@
-<h2><b> Analysis and Visualization on Haberman Data</b></h2>
+<h1><em><b> Analysis and Visualization on Haberman Data</b></h1></em>
 <h3> The dataset is derived from Kaggle: https://www.kaggle.com/datasets/gilsousa/habermans-survival-data-set
 
 <br><h5>Initially in the notebook, I have described about the dataset and its features and the purpose of the data.</h5>
